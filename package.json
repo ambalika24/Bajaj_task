@@ -4,7 +4,8 @@
   "description": "Bajaj_round_1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node numberArray.js"
   },
   "author": "",
   "license": "ISC",
